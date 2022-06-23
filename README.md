@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SoitaNoita
+- 👋 Hi, I’m Ryan Tauhid
 - 👀 I’m interested in AI and Block Chain technology
 - 🌱 I’m currently studying Data Science at UNSW
 
